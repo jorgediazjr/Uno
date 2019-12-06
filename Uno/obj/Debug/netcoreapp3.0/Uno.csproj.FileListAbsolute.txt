@@ -1,0 +1,11 @@
+/Users/jdiaz/C_sharp_work/Uno/Uno/bin/Debug/netcoreapp3.0/Uno
+/Users/jdiaz/C_sharp_work/Uno/Uno/bin/Debug/netcoreapp3.0/Uno.deps.json
+/Users/jdiaz/C_sharp_work/Uno/Uno/bin/Debug/netcoreapp3.0/Uno.runtimeconfig.json
+/Users/jdiaz/C_sharp_work/Uno/Uno/bin/Debug/netcoreapp3.0/Uno.runtimeconfig.dev.json
+/Users/jdiaz/C_sharp_work/Uno/Uno/bin/Debug/netcoreapp3.0/Uno.dll
+/Users/jdiaz/C_sharp_work/Uno/Uno/bin/Debug/netcoreapp3.0/Uno.pdb
+/Users/jdiaz/C_sharp_work/Uno/Uno/obj/Debug/netcoreapp3.0/Uno.csprojAssemblyReference.cache
+/Users/jdiaz/C_sharp_work/Uno/Uno/obj/Debug/netcoreapp3.0/Uno.AssemblyInfoInputs.cache
+/Users/jdiaz/C_sharp_work/Uno/Uno/obj/Debug/netcoreapp3.0/Uno.AssemblyInfo.cs
+/Users/jdiaz/C_sharp_work/Uno/Uno/obj/Debug/netcoreapp3.0/Uno.dll
+/Users/jdiaz/C_sharp_work/Uno/Uno/obj/Debug/netcoreapp3.0/Uno.pdb
